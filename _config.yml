@@ -2,6 +2,7 @@ name: abandonedplaces
 favicon: null
 layout_spectrum: 0.3188864956609905
 typography_spectrum: 0.9375047772191465
+title: Abandoned Places
 cta:
   domain: null
   bucket: null
